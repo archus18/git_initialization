@@ -1,7 +1,7 @@
 public class second
 {
 public static void main(String[] args) {
-    System.out.println("Hello From second class");
+    System.out.println("Hello From second file");
 }
 
 }
